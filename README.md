@@ -32,6 +32,9 @@ lesson 21 → building AI agents
 
 **⭐ 35,000** · [github.com/mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 
+<img width="231" height="219" alt="image" src="https://github.com/user-attachments/assets/2748318a-93e7-4ffc-abdd-3dd2283ec4bf" />
+
+
 Three-part roadmap: LLM Fundamentals → LLM Scientist → LLM Engineer.  
 Every section links to Colab notebooks you can run right now.
 
