@@ -1,4 +1,4 @@
-![Uploading Снимок экрана — 2026-05-06 в 17.21.24.png…]()
+
 # 7 repos to actually learn AI in 2026
 
 > not courses. not youtube. github. everything you need is free.
@@ -6,6 +6,8 @@
 ---
 
 ## 1. microsoft/generative-ai-for-beginners — GenAI from zero
+<img width="271" height="83" alt="Снимок экрана — 2026-05-06 в 17 22 02" src="https://github.com/user-attachments/assets/396b77fe-efc1-4796-a112-11c1446b4982" />
+
 
 **⭐ 98,000** · [github.com/microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
