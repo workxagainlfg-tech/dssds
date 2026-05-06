@@ -1,3 +1,4 @@
+![Uploading Снимок экрана — 2026-05-06 в 17.21.24.png…]()
 # 7 repos to actually learn AI in 2026
 
 > not courses. not youtube. github. everything you need is free.
